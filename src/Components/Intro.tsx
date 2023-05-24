@@ -23,13 +23,13 @@ function Intro() {
                   height={150}
                   src="/pfp.png"
                   alt="Profile Picture"
-                  radius="md"
+                  radius="xl"
                 />
               </div>
             </div>
           </Group>
 
-          <Text className={styles.desc} size="xl">
+          <Text className={styles.desc} size="xxl">
             I’m aiming to be a data analyst or a developer momentarily.
           </Text>
         </section>
