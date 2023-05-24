@@ -18,7 +18,7 @@ function About() {
               About me
             </Title>
             <Text className="desc" size="xl">
-              Ahola, my name is Boss, an average orange cats lover from Thailand.
+              Ahola!!!, my name is Boss, an average orange cats lover from Thailand.
               I’m crazy about cats, games, instrumental music and self-improvement.
               Also, I'm a totally introverted person. Nice to meet you all !!!
             </Text>
