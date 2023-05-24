@@ -1,8 +1,8 @@
 [
   {
-    "title": "Patato.live",
-    "description": "This website that you're looking at. It's built with NextJS",
-    "github": "https://github.com/PathonScript/patato.live",
+    "title": "uzimp.live",
+    "description": "A personal website which I want to express my self at my best :)",
+    "github": "https://github.com/uzimpp/uzimp.live",
     "imageURL": "/projects/patato.png",
     "status": "Active"
   },
@@ -10,22 +10,15 @@
     "title": "Digital Garden",
     "description": "A website where I write stuffs down, wishlist, blogs, etc.",
     "url": "https://garden.patato.live",
-    "github": "https://github.com/PathonScript/garden",
+    "github": "https://github.com/uzimpp/garden",
     "imageURL": "/projects/garden.png",
     "status": "Active"
   },
   {
-    "title": "Light Touch",
-    "description": "A website that connects long-distance relationships by a lamp",
-    "github": "https://github.com/PathonScript/LightTouch",
+    "title": "TCAS LINE chatbot",
+    "description": "A LINE chatbot which tells TCAS information (A senior project in my high school)",
+    "github": "https://github.com/uzimp/Tcas_Line_Chatbot",
     "imageURL": "/projects/lighttouch.png",
-    "status": "Inactive"
-  },
-  {
-    "title": "Windowie",
-    "description": "A bot that takes a picture of my window and displaying it on a command",
-    "github": "https://github.com/PathonScript/Windowie",
-    "imageURL": "/projects/windowie.png",
-    "status": "Inactive"
+    "status": "Active"
   }
 ]
