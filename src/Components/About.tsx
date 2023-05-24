@@ -14,19 +14,18 @@ function About() {
       <section className="fullflex">
         <div className={styles.container}>
           <div className={styles.section1}>
-            <Title size="h0" className="heading">
+            <Title size="h1" className="heading">
               About me
             </Title>
             <Text className="desc" size="xl">
-              Hi, I’m pat. I’m currently a
-              <span className={styles.age}> {age} </span> years old developer
-              and a gamer from Thailand. I do web development and actively
-              trying to create fun and useful websites and side projects.
+              Ahola, my name is Boss, an average orange cats lover from Thailand.
+              I’m crazy about cats, games, instrumental music and self-improvement.
+              Also, I'm a totally introverted person. Nice to meet you all <3
             </Text>
           </div>
           <div className={styles.section2}>
             <Title align="center" size="h2" className="heading">
-              Notable Projects
+              Projects
             </Title>
             {/* <hr /> */}
             <Projects />
