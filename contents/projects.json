@@ -8,7 +8,7 @@
   },
   {
     "title": "Digital Garden",
-    "description": "A website where I write stuffs down, wishlist, blogs, etc.",
+    "description": "A website where I write bucket lists, blogs, etc.",
     "url": "https://garden.patato.live",
     "github": "https://github.com/uzimpp/garden",
     "imageURL": "/projects/garden.png",
@@ -17,7 +17,7 @@
   {
     "title": "TCAS LINE chatbot",
     "description": "A LINE chatbot which tells TCAS information (A senior project in my high school)",
-    "github": "https://github.com/uzimp/Tcas_Line_Chatbot",
+    "github": "https://github.com/uzimpp/Tcas_Line_Chatbot",
     "imageURL": "/projects/chatbot.png",
     "status": "Active"
   }
