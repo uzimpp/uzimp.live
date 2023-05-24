@@ -13,8 +13,19 @@ function Contacts() {
             variant="filled"
             size={40}
             component="a"
-            href="https://github.com/patatotato"
+            href="https://github.com/uzimpp"
             target="_blank"
+          >
+            <IconBrandGithub size={32} />
+          </ActionIcon>
+          
+          <ActionIcon
+            variant="filled"
+            size={40}
+            component="a"
+            href="https://github.com/uzimpp"
+            target="_blank"
+            color="purple"
           >
             <IconBrandGithub size={32} />
           </ActionIcon>
@@ -23,9 +34,9 @@ function Contacts() {
             variant="filled"
             size={40}
             component="a"
-            href="https://twitter.com/patatotota"
+            href="https://instagram.com/ssoq.b?igshid=MmIzYWVlNDQ5Yg=="
             target="_blank"
-            color="blue"
+            color="pink"
           >
             <IconBrandTwitter size={32} />
           </ActionIcon>
@@ -34,7 +45,7 @@ function Contacts() {
             variant="filled"
             size={40}
             component="a"
-            href="mailto:pathonscript@gmail.com"
+            href="mailto:worrakit.boss@gmail.com"
             target="_blank"
             color="red"
           >
