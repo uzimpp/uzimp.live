@@ -3,7 +3,7 @@
     "title": "uzimp.live",
     "description": "A personal website which I want to express my self at my best :)",
     "github": "https://github.com/uzimpp/uzimp.live",
-    "imageURL": "/projects/patato.png",
+    "imageURL": "/projects/uzimp.png",
     "status": "Active"
   },
   {
@@ -18,7 +18,7 @@
     "title": "TCAS LINE chatbot",
     "description": "A LINE chatbot which tells TCAS information (A senior project in my high school)",
     "github": "https://github.com/uzimp/Tcas_Line_Chatbot",
-    "imageURL": "/projects/lighttouch.png",
+    "imageURL": "/projects/chatbot.png",
     "status": "Active"
   }
 ]
