@@ -10,9 +10,9 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Patato</title>
-        <meta name="description" content="who dis" />
-        <link rel="icon" href="/sofa.png" />
+        <title>uzimp</title>
+        <meta name="description" content="Personal website" />
+        <link rel="icon" href="/favicon.png" />
         <meta
           property="og:image"
           content="https://thumbs2.imgbox.com/87/66/c4DbgdON_t.jpg"
