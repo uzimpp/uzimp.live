@@ -14,7 +14,7 @@ function About() {
       <section className="fullflex">
         <div className={styles.container}>
           <div className={styles.section1}>
-            <Title size="h1" className="heading">
+            <Title size="h0" className="heading">
               About me
             </Title>
             <Text className="desc" size="xl">
