@@ -10,9 +10,9 @@ function Intro() {
         <section className="container">
           <Group position="apart">
             <div>
-              <Title className={styles.intro}>Hi, my name is</Title>
+              <Title className={styles.intro}>Ahola, my name is</Title>
               <Title className={styles.name} size="h1" color="#ffa64a">
-                Pat <span className={styles.subname}>( Patato )</span>
+                Boss <span className={styles.subname}>aka uzimp</span>
               </Title>
             </div>
             <div className={styles.pfpimage}>
@@ -30,8 +30,7 @@ function Intro() {
           </Group>
 
           <Text className={styles.desc} size="xl">
-            I’m a full-stack developer who likes creating fun software and
-            websites
+            I’m aiming to be a data analyst or a developer momentarily.
           </Text>
         </section>
       </main>
