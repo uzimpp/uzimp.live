@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="icon" href="/favicon.png" />
         <meta
           property="og:image"
-          content=smile
+          content={smile}
         />
       </Head>
 
