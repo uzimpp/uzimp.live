@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="icon" href="/favicon.png" />
         <meta
           property="og:image"
-          content="/smile.png"
+          content="https://raw.githubusercontent.com/uzimpp/uzimp.live/main/public/smile.png"
         />
       </Head>
 
