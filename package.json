@@ -1,6 +1,6 @@
 {
-  "name": "patato.live",
-  "version": "0.1.0",
+  "name": "uzimp.live",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
