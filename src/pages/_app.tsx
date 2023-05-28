@@ -5,6 +5,7 @@ import type { AppProps } from "next/app";
 import { MantineProvider } from "@mantine/core";
 import Head from "next/head";
 import Layout from "../Components/Layout";
+import smile from "/public/smile.png";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -15,7 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="icon" href="/favicon.png" />
         <meta
           property="og:image"
-          content="https://uzimp.live/pfp.png"
+          content=smile
         />
       </Head>
 
