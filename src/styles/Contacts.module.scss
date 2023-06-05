@@ -7,7 +7,6 @@
 
 .gradientIcon {
   --size: 40px;
-  --white: #fff;
   --blue: #3051f1;
   --purple: #c92bb7;
   --red: #f73344;
@@ -31,25 +30,4 @@
   position: relative;
   display: grid;
   place-items: center;
-
-  &:before,
-  &:after {
-    content: "";
-    color: var(--white);
-    position: absolute;
-    border-radius: inherit;
-    aspect-ratio: 1;
-  }
-
-  &:before {
-    border: 0.05em solid;
-    width: 65%;
-  }
-
-  &:after {
-    border-radius: 50%;
-    border: 0.05em solid;
-    width: 35%;
-    box-shadow: 0.22em -0.22em 0 -0.18em;
-  }
 }
