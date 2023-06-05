@@ -4,20 +4,19 @@
   align-items: center; /* Change align-items value to center */
   justify-content: center;
   flex-direction: row;
-  transform: scale(1.25);
-  
+
   div {
     flex: 1 1 0%;
   }
 }
 
 .intro {
-  font-size: 2.5rem; /* Increase the font size as desired */
+  font-size: 3.125rem; /* Increase the font size as desired */
 }
 
 .desc {
   text-align: start;
-  font-size: 1rem;
+  font-size: 1.25rem; /* Increase the font size as desired */
 }
 
 .pfpimage {
@@ -41,11 +40,11 @@
 }
 
 .name {
-  font-size: 6.5rem; /* Increase the font size as desired */
+  font-size: 8.125rem; /* Increase the font size as desired */
 }
 
 .subname {
-  font-size: 1.5rem; /* Increase the font size as desired */
+  font-size: 1.875rem; /* Increase the font size as desired */
 }
 
 @media only screen and (max-width: 485px) {
