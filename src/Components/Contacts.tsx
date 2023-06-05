@@ -27,6 +27,7 @@ function Contacts() {
             target="_blank"
             className={styles.gradientIcon}
           >
+            <IconBrandGInstagram size={32} />
           </ActionIcon>
 
 
