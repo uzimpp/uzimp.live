@@ -22,12 +22,10 @@ function Contacts() {
           <ActionIcon
             variant="filled"
             size={40}
-            component="a"
             href="https://instagram.com/ssoq.b?igshid=MmIzYWVlNDQ5Yg=="
             target="_blank"
             className={styles.gradientIcon}
           >
-            <IconBrandInstagram size={32} />
           </ActionIcon>
 
           <ActionIcon
