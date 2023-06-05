@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="icon" href="/favicon.png" />
         <meta
           property="og:image"
-          content="https://thumbs2.imgbox.com/87/66/c4DbgdON_t.jpg"
+          content="https://thumbs2.imgbox.com/3c/51/wNMQhsMa_t.png"
         />
       </Head>
 

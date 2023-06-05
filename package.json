@@ -1,6 +1,10 @@
 {
   "name": "uzimp.live",
+<<<<<<< HEAD
   "version": "1.0.9",
+=======
+  "version": "1.0.0",
+>>>>>>> ac9d03a7a314e94bf3155b7f33c004265f3c5dfd
   "private": true,
   "scripts": {
     "dev": "next dev",
