@@ -29,7 +29,7 @@ function Intro() {
             </div>
           </Group>
 
-          <Text className={styles.desc} size="xxl">
+          <Text className={styles.desc} size="xl">
             I’m aiming to be a data analyst or a developer momentarily.
           </Text>
         </section>
