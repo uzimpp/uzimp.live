@@ -11,7 +11,7 @@
 }
 
 .intro {
-  font-size: 2rem; /* Increase the font size as desired */
+  font-size: 2.5rem; /* Increase the font size as desired */
 }
 
 .desc {
@@ -39,20 +39,21 @@
 }
 
 .name {
-  font-size: 6rem; /* Increase the font size as desired */
+  font-size: 6.5rem; /* Increase the font size as desired */
 }
 
 .subname {
   font-size: 1.5rem; /* Increase the font size as desired */
 }
 
-@media only screen and (max-width: 485px) {
+@media only screen and (max-width: 500px) {
   .pfpimage {
     width: 100%;
     justify-content: center;
   }
 
   .desc {
+    font-size: 1rem
     text-align: center;
   }
 }
