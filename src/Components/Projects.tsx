@@ -8,7 +8,7 @@ import ProjectCard from "./ProjectCard";
 const Container = styled.div`
   display: flex;
   padding: 1rem;
-  width: 125%; /* Increase the width to 125% */
+  width: 100%;
   justify-content: center;
 `;
 
@@ -16,10 +16,10 @@ function Projects() {
   return (
     <Container>
       <Carousel
-        sx={{ maxWidth: "30rem" }}
-        slideSize="112.5%"
-        slideGap="md"
-        height={375}
+        sx={{ maxWidth: "24rem" }}
+        slideSize="90%"
+        slideGap="sm"
+        height={300}
         withControls={false}
         withIndicators
       >
