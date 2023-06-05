@@ -11,7 +11,7 @@ function Intro() {
           <Group position="apart">
             <div>
               <Title className={styles.intro}>Ahola, my name is</Title>
-              <Title className={styles.name} size="h1" color="#5A9DD3">
+              <Title className={styles.name} size="h1" color="#82AFD3">
                 Boss <span className={styles.subname}>aka uzimp</span>
               </Title>
             </div>
