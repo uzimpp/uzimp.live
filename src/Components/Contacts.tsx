@@ -25,7 +25,7 @@ function Contacts() {
             component="a"
             href="https://instagram.com/ssoq.b?igshid=MmIzYWVlNDQ5Yg=="
             target="_blank"
-            color="pink"
+            className={styles.gradientIcon}
           >
             <IconBrandInstagram size={32} />
           </ActionIcon>
