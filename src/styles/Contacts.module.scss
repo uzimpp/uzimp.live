@@ -1,10 +1,63 @@
+:root {
+  --size: 50vmin;
+  --white: #fff;
+  --blue: #3051f1;
+  --purple: #c92bb7;
+  --red: #f73344;
+  --orange: #fa8e37;
+  --yellow: #fcdf8f;
+  --yellow_to: #fbd377;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
 .container {
   position: fixed;
   top: 0;
   right: 0;
   padding: 0.5rem;
 }
-.gradientIcon {
-  background: linear-gradient(45deg, #fd5c63, #fcbc4d, #fccf63, #ff00a9);
-}
 
+.gradientIcon {
+  font-size: var(--size);
+  width: 1em;
+  aspect-ratio: 1;
+  background: radial-gradient(
+      circle farthest-corner at 28% 100%,
+      var(--yellow) 0%,
+      var(--yellow_to) 10%,
+      var(--orange) 22%,
+      var(--red) 35%,
+      transparent 65%
+    ),
+    linear-gradient(145deg, var(--blue) 10%, var(--purple) 70%);
+  border-radius: 0.2em;
+  position: relative;
+  display: grid;
+  place-items: center;
+
+  &:before,
+  &:after {
+    content: "";
+    color: var(--white);
+    position: absolute;
+    border-radius: inherit;
+    aspect-ratio: 1;
+  }
+
+  &:before {
+    border: 0.05em solid;
+    width: 65%;
+  }
+
+  &:after {
+    border-radius: 50%;
+    border: 0.05em solid;
+    width: 35%;
+    box-shadow: 0.22em -0.22em 0 -0.18em;
+  }
+}
