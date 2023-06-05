@@ -1,22 +1,22 @@
 .name_container {
   width: 100%;
   display: flex;
-  align-items: center; /* Change align-items value to center */
+  align-items: flex-start;
   justify-content: center;
   flex-direction: row;
-
+  
   div {
     flex: 1 1 0%;
   }
 }
 
 .intro {
-  font-size: 3.125rem; /* Increase the font size as desired */
+  font-size: 2.5rem; /* Increase the font size as desired */
 }
 
 .desc {
   text-align: start;
-  font-size: 1.5rem; /* Increase the font size as desired */
+  font-size: 1rem;
 }
 
 .pfpimage {
@@ -40,11 +40,11 @@
 }
 
 .name {
-  font-size: 8.125rem; /* Increase the font size as desired */
+  font-size: 6.5rem; /* Increase the font size as desired */
 }
 
 .subname {
-  font-size: 1.875rem; /* Increase the font size as desired */
+  font-size: 1.5rem; /* Increase the font size as desired */
 }
 
 @media only screen and (max-width: 485px) {
