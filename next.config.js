@@ -7,7 +7,6 @@ const nextConfig = {
     domains: [
       "raw.githubusercontent.com",
       "images2.imgbox.com",
-      "webring.wonderful.software",
     ],
   },
 };
