@@ -1,20 +1,21 @@
 .name_container {
   width: 100%;
   display: flex;
-  align-items: flex-start;
+  align-items: center; /* Change align-items value to center */
   justify-content: center;
   flex-direction: row;
+  
   div {
     flex: 1 1 0%;
   }
 }
 
 .intro {
-  font-size: 1.5rem;
+  font-size: 2rem; /* Increase the font size as desired */
 }
 
 .desc {
-  text-align: start;
+  text-align: start
 }
 
 .pfpimage {
@@ -38,11 +39,11 @@
 }
 
 .name {
-  font-size: 4rem;
+  font-size: 6rem; /* Increase the font size as desired */
 }
 
 .subname {
-  font-size: 1.75rem;
+  font-size: 1.5rem; /* Increase the font size as desired */
 }
 
 @media only screen and (max-width: 485px) {
