@@ -26,7 +26,6 @@ function Contacts() {
             href="https://instagram.com/ssoq.b?igshid=MmIzYWVlNDQ5Yg=="
             target="_blank"
             className={styles.gradientIcon}
-            style={{ background: "none" }}
           >
           </ActionIcon>
 
