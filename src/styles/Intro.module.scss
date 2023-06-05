@@ -15,7 +15,8 @@
 }
 
 .desc {
-  text-align: start ;
+  text-align: start;
+  font-size: 1rem;
 }
 
 .pfpimage {
@@ -46,14 +47,13 @@
   font-size: 1.5rem; /* Increase the font size as desired */
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 485px) {
   .pfpimage {
     width: 100%;
     justify-content: center;
   }
 
   .desc {
-    font-size: 1rem
     text-align: center;
   }
 }
