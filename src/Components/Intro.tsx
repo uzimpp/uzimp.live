@@ -30,7 +30,7 @@ function Intro() {
           </Group>
 
           <Text className={styles.desc} size="xl">
-            I’m aiming to be a data analyst or a developer momentarily.
+            I’m aiming to be a full-stack developer or software executive.
           </Text>
         </section>
       </main>
