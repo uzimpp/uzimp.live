@@ -1,7 +1,7 @@
 [
   {
     "title": "uzimp.live",
-    "description": "A personal website which I want to express my self at my best :)",
+    "description": "A personal website which I want to express my self :)",
     "github": "https://github.com/uzimpp/uzimp.live",
     "imageURL": "/projects/uzimp.live.png",
     "status": "Active"
@@ -16,7 +16,7 @@
   },
   {
     "title": "TCAS Engineering-bot",
-    "description": "A rule-based Line chatbot which provide basic application information of engineering department in Thai University Central Admission System or TCAS. The data is based on TCAS66.",
+    "description": "A rule-based Line chatbot which provide basic application information of Thai University Central Admission System or TCAS",
     "github": "https://github.com/uzimpp/Tcas_Line_Chatbot",
     "imageURL": "/projects/profile.png",
     "status": "Active"
