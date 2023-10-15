@@ -15,8 +15,8 @@
     "status": "Active"
   },
   {
-    "title": "TCAS LINE chatbot",
-    "description": "A LINE chatbot which tells TCAS information (A senior project in my high school)",
+    "title": "TCAS Engineering-bot",
+    "description": "A rule-based Line chatbot which provide basic application information of engineering department in Thai University Central Admission System or TCAS. The data is based on TCAS66.",
     "github": "https://github.com/uzimpp/Tcas_Line_Chatbot",
     "imageURL": "/projects/profile.png",
     "status": "Active"
